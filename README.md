@@ -2,7 +2,20 @@
 <a href="/README_CN.md">简体中文</a>
 
 [TOC]
-
+- [what is EventBus ?](#what-is-eventbus-)
+- [how to use](#how-to-use)
+  - [1、npm Install dependencies](#1npm-install-dependencies)
+  - [2、import package](#2import-package)
+    - [Node](#node)
+    - [TypeScript](#typescript)
+  - [3、Example of use](#3example-of-use)
+    - [basic use](#basic-use)
+    - [Send multiple payload parameters](#send-multiple-payload-parameters)
+    - [once method](#once-method)
+    - [Cancel event listener](#cancel-event-listener)
+      - [Method 1](#method-1)
+      - [Method 2](#method-2)
+  - [4、TypeScript support](#4typescript-support)
 
 
 # what is EventBus ?

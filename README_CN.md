@@ -3,7 +3,21 @@
 
 
 
-[TOC]
+[TOC]- [什么是事件总线(EventBUs)](#什么是事件总线eventbus)
+- [什么是事件总线(EventBUs)](#什么是事件总线eventbus)
+- [怎么使用](#怎么使用)
+  - [1、npm安装依赖](#1npm安装依赖)
+  - [2、将包导入](#2将包导入)
+    - [Node 环境](#node-环境)
+    - [TypeScript](#typescript)
+  - [3、使用例子](#3使用例子)
+    - [基本使用](#基本使用)
+    - [发送多个 payload 参数](#发送多个-payload-参数)
+    - [once 方法](#once-方法)
+    - [取消事件监听](#取消事件监听)
+      - [方法一： 调用 off 方法](#方法一-调用-off-方法)
+      - [方法二 ：on 返回取消函数](#方法二-on-返回取消函数)
+  - [4、TypeScript 支持](#4typescript-支持)
 
 # 什么是事件总线(EventBUs)
 
