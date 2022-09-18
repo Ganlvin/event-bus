@@ -3,7 +3,6 @@
 
 
 
-[TOC]- [什么是事件总线(EventBUs)](#什么是事件总线eventbus)
 - [什么是事件总线(EventBUs)](#什么是事件总线eventbus)
 - [怎么使用](#怎么使用)
   - [1、npm安装依赖](#1npm安装依赖)

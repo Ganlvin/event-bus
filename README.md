@@ -1,7 +1,7 @@
 <a href="/README.md">English</a>   
 <a href="/README_CN.md">简体中文</a>
 
-[TOC]
+
 - [what is EventBus ?](#what-is-eventbus-)
 - [how to use](#how-to-use)
   - [1、npm Install dependencies](#1npm-install-dependencies)
